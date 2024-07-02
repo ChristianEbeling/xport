@@ -2,7 +2,17 @@
   Xport
 ########################################################################
 
+
 .. sphinx-page-start
+
+This is a fork from https://github.com/selik/xport
+
+Comment by Christian Ebeling: to install this version of the software: 
+
+`pip install git+https://github.com/ChristianEbeling/xport.git`
+
+Rest of the documentation is from the original repro
+
 
 Read and write SAS Transport files (``*.xpt``).
 
